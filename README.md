@@ -86,21 +86,19 @@
 
 <div align="center">
 
-![Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmarFKhan&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800)
+![Umar's GitHub stats](https://github-readme-stats-two-umber-33.vercel.app/api?username=UmarFKhan&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UmarFKhan&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats-two-umber-33.vercel.app/api/top-langs/?username=UmarFKhan&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UmarFKhan&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=UmarFKhan&theme=dark&hide_border=true)
 
 </div>
 
 <!--
-NOTE ON RELIABILITY:
-github-readme-stats.vercel.app is a free shared demo instance and gets rate-limited by
-GitHub's API often — that's the #1 reason cards randomly stop rendering. If these cards
-break again, deploy your own free instance:
-https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
-then swap the domain above for your own Vercel URL. It'll be far more reliable.
+Using a self-hosted instance (github-readme-stats-two-umber-33.vercel.app) instead of the
+shared public one, since the shared one gets rate-limited constantly. To make this instance
+even more reliable, add a GitHub personal access token as env var PAT_1 in the Vercel project
+settings — this raises the rate limit from 60/hr to 5,000/hr.
 -->
 
 ### 🔴 Live Badges (always accurate, no rate-limit issues)
