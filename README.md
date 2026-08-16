@@ -27,13 +27,13 @@
 
 <div align="center">
 <img src="https://atechabad.com/static/img/Hackathon2024.png" alt="Abasyn University Hackathon 2024 - First Position" width="160"/>
+&nbsp;&nbsp;
+<img src="https://atechabad.com/static/img/ShieldHackathon2024.png" alt="Hackathon 2024 Winner's Shield" width="160"/>
 </div>
 
 **🥇 1st Position — Abasyn University Islamabad Hackathon 2024** (Oct 23, 2024)
 
 Built a complete **Door Locking & Unlocking System** from scratch, on the spot, during a 3-hour hackathon with live coding and live hardware assembly — no pre-built code or wiring. Used an **Arduino Nano** driving a **servo-motor latch mechanism**, with an **LCD display**, **keypad** for code entry, **buzzer + alarm lights** for intrusion alerts, and a **reset button**. Also designed and presented a roadmap for adding **fingerprint authentication** as a future upgrade path.
-
-> 📎 Got a corrected link for your winner's shield/trophy photo? The one you sent points to the same file as the badge above — send the right URL and I'll add it here too.
 
 ---
 
