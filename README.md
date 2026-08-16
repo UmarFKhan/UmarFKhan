@@ -16,22 +16,84 @@
 
 ### 💫 About Me
 
-- 🎓 CS Student & passionate developer
+- 🎓 CS Student & founder building real, shipped software
 - 🚀 Founder & Creator of **Atechabad Academy** &nbsp;<img src="https://atechabad.com/static/img/sitelogo.png" alt="Atechabad" width="18" valign="middle"/>
-- 💻 Currently learning: **C++, Python, Flutter, React, SQL**
-- 🧠 Exploring: **AI & Chatbots, Web Development, App Development, real-world problem solving**
+- 🛠️ Built and shipped 10+ tools/apps — AI, IoT, hardware automation, GPU-accelerated pipelines
+- 🤖 Currently deep in **Agentic Workflows** — building AI agents that actually do things
+- 🥇 1st Position, Abasyn University Hackathon 2024 — built a full IoT lock system live, in 3 hours
 - ⚡ Goal: build smart, useful, impactful software — and gather a team of relentlessly motivated builders
-- 📈 Always learning. Always improving.
 
-### 📦 Currently Working On
+### 🏆 Achievements
 
-| Project | Description |
-|---|---|
-| **Ghouri Go** | Grocery delivery app |
-| **Sher-e-Shaoor** | Urdu word/trivia game app |
-| **Atechabad Gate Control** | Electric lock unlocking system (IoT / hardware) |
+<div align="center">
+<img src="https://atechabad.com/static/img/Hackathon2024.png" alt="Abasyn University Hackathon 2024 - First Position" width="160"/>
+</div>
 
-> If any of these have public repos, send me the links and I'll wire them in as pinned/featured cards below.
+**🥇 1st Position — Abasyn University Islamabad Hackathon 2024** (Oct 23, 2024)
+
+Built a complete **Door Locking & Unlocking System** from scratch, on the spot, during a 3-hour hackathon with live coding and live hardware assembly — no pre-built code or wiring. Used an **Arduino Nano** driving a **servo-motor latch mechanism**, with an **LCD display**, **keypad** for code entry, **buzzer + alarm lights** for intrusion alerts, and a **reset button**. Also designed and presented a roadmap for adding **fingerprint authentication** as a future upgrade path.
+
+> 📎 Got a corrected link for your winner's shield/trophy photo? The one you sent points to the same file as the badge above — send the right URL and I'll add it here too.
+
+---
+
+### 📦 Featured Projects
+
+**🚪 ESP32 Smart Gate Automation — Private repo**
+IoT automation system for a heavy-duty metal main-entrance door. Built on an **ESP32**, controlled via a **React app** with a live camera overlay — the owner opens the app, sees who's at the gate through the camera feed, and unlocks it remotely for guests, all over wireless. Combines embedded hardware control with real-time app-based access management.
+
+**🏥 [Triage_by_UmarKhan](https://github.com/UmarFKhan/Triage_by_UmarKhan)** — `C++` · Public
+A hospital triage system built as a Data Structures & Algorithms implementation — prioritizes and routes patients programmatically using core DSA concepts.
+
+**🍅 [Tomato-Plant-Disease-Identifier (STICS Project)](https://github.com/UmarFKhan/Tomato-Plant-Disease-Identifier-STICS-Project)** — `Python` · Public
+Deep-learning tomato leaf disease classifier built with **TensorFlow** and **EfficientNetB0**. Trained on real-field tomato images using a two-phase transfer-learning approach with a frozen base model.
+
+**🌐 Atechabad Academy Website** — `Python` · Private
+The official website for Atechabad Academy — [atechabad.com](https://atechabad.com).
+
+**🌾 Agriculture Portal** — `HTML` · Private (client project)
+A customized agriculture portal built for a client.
+
+**🎙️ Chinese Dub Studio**
+Converts Chinese text or audio into English voice output — free to use, GPU-accelerated on CUDA cores (RTX required).
+
+**🎓 University Entry Test Preparation System**
+Helps students prepare for university entrance exams, paired with an AI assistant that guides students based on their own educational records.
+
+**📋 ClipBoard Watcher**
+A lightweight utility that logs everything copied to the clipboard into a running notepad file.
+
+---
+
+### 🧰 Tools Suite — [atechabad.com/tools](https://atechabad.com/tools)
+
+A free toolkit deployed on Atechabad's website:
+
+- Video Downloader
+- AI Image Upscaler
+- AI Background Remover
+- AI Resume Creator
+- QR Code Generator
+- Image Converter
+- Image Resizer
+- Color Picker
+
+---
+
+### ⚙️ Currently Working On — Agentic Workflows
+
+- **News Posting Automation** — automated pipeline for publishing news content
+- **Atecra** — Atechabad's own AI agent
+- **Power Control IoT System** — remote/automated power control over IoT
+- **Micropad** — custom 10-key macro keyboard
+
+### 🔮 Future Projects
+
+- **Home Automation System**
+- **Atecra Personal Assistant** — a voice assistant in the spirit of Amazon Alexa
+- **Long-range wireless communication using LoRa**
+
+
 
 ---
 
@@ -105,7 +167,7 @@ settings — this raises the rate limit from 60/hr to 5,000/hr.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=UmarFKhan&color=blueviolet&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/UmarFKhan?style=for-the-badge&color=blue)
-![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/UmarFKhan&label=Public%20Repos&query=public_repos&color=green&style=for-the-badge)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FUmarFKhan&label=Public%20Repos&query=%24.public_repos&color=green&style=for-the-badge)
 
 ---
 
