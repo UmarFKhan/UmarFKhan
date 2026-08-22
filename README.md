@@ -48,19 +48,19 @@ A hospital triage system built as a Data Structures & Algorithms implementation 
 **🍅 [Tomato-Plant-Disease-Identifier (STICS Project)](https://github.com/UmarFKhan/Tomato-Plant-Disease-Identifier-STICS-Project)** — `Python` · Public
 Deep-learning tomato leaf disease classifier built with **TensorFlow** and **EfficientNetB0**. Trained on real-field tomato images using a two-phase transfer-learning approach with a frozen base model.
 
-**🌐 Atechabad Academy Website** — `Python` · Private
+**🌐 [Atechabad Academy Website](https://atechabad.com)** — `Python` · Private
 The official website for Atechabad Academy — [atechabad.com](https://atechabad.com).
 
 **🌾 Agriculture Portal** — `HTML` · Private (client project)
 A customized agriculture portal built for a client.
 
-**🎙️ Chinese Dub Studio**
+**🎙️ [Chinese Dub Studio](https://github.com/UmarFKhan/AtechabadDubStudio)**
 Converts Chinese text or audio into English voice output — free to use, GPU-accelerated on CUDA cores (RTX required).
 
-**🎓 University Entry Test Preparation System**
+**🎓 [University Entry Test Preparation System](https://github.com/UmarFKhan/Entry-Test-System)**
 Helps students prepare for university entrance exams, paired with an AI assistant that guides students based on their own educational records.
 
-**📋 ClipBoard Watcher**
+**📋 [ClipBoard Watcher](https://github.com/UmarFKhan/ClipBoard-Watcher)**
 A lightweight utility that logs everything copied to the clipboard into a running notepad file.
 
 ---
