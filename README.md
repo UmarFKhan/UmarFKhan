@@ -1,6 +1,9 @@
-<img src="https://www.atechabad.com/static/re.svg" alt="Atechabad" width="300" align="left"/>
-
-<div align="center">
+<table>
+<tr>
+<td width="300" valign="middle">
+<img src="https://www.atechabad.com/static/re.svg" alt="Atechabad" width="280"/>
+</td>
+<td align="center" valign="middle">
 
 <a href="https://atechabad.com">
   <img src="https://atechabad.com/static/img/sitelogo.png" alt="Atechabad Academy" width="140"/>
@@ -12,9 +15,9 @@
 
 📍 Islamabad, Pakistan &nbsp;|&nbsp; 🌐 [atechabad.com](https://atechabad.com) &nbsp;|&nbsp; ✉️ [admin@atechabad.com](mailto:admin@atechabad.com)
 
-</div>
-
-<br clear="left"/>
+</td>
+</tr>
+</table>
 
 ---
 
