@@ -18,6 +18,13 @@
 
 📍 Islamabad, Pakistan &nbsp;|&nbsp; 🌐 [atechabad.com](https://atechabad.com) &nbsp;|&nbsp; ✉️ [admin@atechabad.com](mailto:admin@atechabad.com)
 
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/UmarFKhan)
+[![GitHub Follow](https://img.shields.io/badge/GitHub-Follow-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UmarFKhan)
+[![Atechabad Profile](https://img.shields.io/badge/Atechabad-Profile-%230052CC.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://atechabad.com)
+[![Patreon](https://img.shields.io/badge/Patreon-Support-%23F96854.svg?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/Atechabad)
+
 </td>
 </tr>
 </table>
@@ -170,13 +177,6 @@ A free toolkit deployed on Atechabad's website:
 ![GitHub Streak](https://streak-stats.demolab.com?user=UmarFKhan&theme=dark&hide_border=true)
 
 </div>
-
-<!--
-Using a self-hosted instance (github-readme-stats-two-umber-33.vercel.app) instead of the
-shared public one, since the shared one gets rate-limited constantly. To make this instance
-even more reliable, add a GitHub personal access token as env var PAT_1 in the Vercel project
-settings — this raises the rate limit from 60/hr to 5,000/hr.
--->
 
 ### 🔴 Live Badges (always accurate, no rate-limit issues)
 
