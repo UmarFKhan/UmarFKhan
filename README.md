@@ -20,10 +20,10 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/UmarFKhan)
-[![GitHub Follow](https://img.shields.io/badge/GitHub-Follow-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UmarFKhan)
-[![Atechabad Profile](https://img.shields.io/badge/Atechabad-Profile-%230052CC.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://atechabad.com)
-[![Patreon](https://img.shields.io/badge/Patreon-Support-%23F96854.svg?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/Atechabad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/UmarFKhan)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UmarFKhan)
+[![Atechabad](https://img.shields.io/badge/Atechabad-%230052CC.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://atechabad.com)
+[![Patreon](https://img.shields.io/badge/Patreon-%23F96854.svg?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/Atechabad)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@AtechabadAcademy?sub_confirmation=1)
 
 </td>
