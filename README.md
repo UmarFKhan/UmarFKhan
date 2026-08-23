@@ -1,4 +1,4 @@
-<img src="https://www.atechabad.com/static/re.svg" alt="Atechabad" width="500" align="right"/>
+<img src="https://www.atechabad.com/static/re.svg" alt="Atechabad" width="300" align="left"/>
 
 <div align="center">
 
