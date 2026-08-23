@@ -24,6 +24,7 @@
 [![GitHub Follow](https://img.shields.io/badge/GitHub-Follow-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UmarFKhan)
 [![Atechabad Profile](https://img.shields.io/badge/Atechabad-Profile-%230052CC.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://atechabad.com)
 [![Patreon](https://img.shields.io/badge/Patreon-Support-%23F96854.svg?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/Atechabad)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@AtechabadAcademy?sub_confirmation=1)
 
 </td>
 </tr>
@@ -112,18 +113,6 @@ A free toolkit deployed on Atechabad's website:
 - **Home Automation System**
 - **Atecra Personal Assistant** — a voice assistant in the spirit of Amazon Alexa
 - **Long-range wireless communication using LoRa**
-
----
-
-### 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/UmarFKhan)
-[![GitHub Follow](https://img.shields.io/badge/GitHub-Follow-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UmarFKhan)
-[![Atechabad Profile](https://img.shields.io/badge/Atechabad-Profile-%230052CC.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://atechabad.com)
-[![Patreon](https://img.shields.io/badge/Patreon-Support-%23F96854.svg?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/Atechabad)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@AtechabadAcademy?sub_confirmation=1)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://atechabad.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admin@atechabad.com)
 
 ---
 
