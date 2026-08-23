@@ -2,6 +2,9 @@
 <tr>
 <td width="300" valign="middle">
 <img src="https://www.atechabad.com/static/re.svg" alt="Atechabad" width="280"/>
+
+<img src="https://www.atechabad.com/static/terminal_banner.svg" alt="terminal" width="280"/>
+
 </td>
 <td align="center" valign="middle">
 
