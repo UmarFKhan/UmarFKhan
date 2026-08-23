@@ -49,6 +49,9 @@ Built a complete **Door Locking & Unlocking System** from scratch, on the spot, 
 
 ### 📦 Featured Projects
 
+**📡 [ESP8266 WiFi Extender & Range Repeater](https://github.com/UmarFKhan/Wifi_Extender)** — `C++ / Arduino` · Public  
+An ultra-budget (~$3.50) DIY Wi-Fi range repeater powered by an **ESP8266**. Implements hardware-accelerated **lwIP NAPT** (Network Address Port Translation) layer-3 routing, an internal DNS proxy, and a live standalone web telemetry status dashboard at `http://192.168.4.1/status`.
+
 **🚪 ESP32 Smart Gate Automation — Private repo**
 IoT automation system for a heavy-duty metal main-entrance door. Built on an **ESP32**, controlled via a **React app** with a live camera overlay — the owner opens the app, sees who's at the gate through the camera feed, and unlocks it remotely for guests, all over wireless. Combines embedded hardware control with real-time app-based access management.
 
