@@ -93,8 +93,6 @@ A free toolkit deployed on Atechabad's website:
 - **Atecra Personal Assistant** — a voice assistant in the spirit of Amazon Alexa
 - **Long-range wireless communication using LoRa**
 
-
-
 ---
 
 ### 🌐 Connect With Me
