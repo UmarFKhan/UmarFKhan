@@ -66,7 +66,7 @@ IoT automation system for a heavy-duty metal main-entrance door. Built on an **E
 **🏥 [Triage_by_UmarKhan](https://github.com/UmarFKhan/Triage_by_UmarKhan)** — `C++` · Public
 A hospital triage system built as a Data Structures & Algorithms implementation — prioritizes and routes patients programmatically using core DSA concepts.
 
-**🍅 [Tomato-Plant-Disease-Identifier (STICS Project)](https://github.com/UmarFKhan/Tomato-Plant-Disease-Identifier-STICS-Project)** — `Python` · Public
+**🍅 [Tomato-Plant-Disease-Identifier (ML Project)](https://github.com/UmarFKhan/Tomato-Plant-Disease-Identifier-ML-Project)** — `Python` · Public
 Deep-learning tomato leaf disease classifier built with **TensorFlow** and **EfficientNetB0**. Trained on real-field tomato images using a two-phase transfer-learning approach with a frozen base model.
 
 **🌐 [Atechabad Academy Website](https://atechabad.com)** — `Python` · Private
