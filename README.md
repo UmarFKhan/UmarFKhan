@@ -1,182 +1,197 @@
-<table>
-<tr>
-<td width="300" valign="middle">
-<img src="https://www.atechabad.com/static/re.svg" alt="Atechabad" width="280"/>
-
-<img src="https://www.atechabad.com/static/terminal_banner.svg" alt="terminal" width="280"/>
-
-</td>
-<td align="center" valign="middle">
+<div align="center">
 
 <a href="https://atechabad.com">
-  <img src="https://atechabad.com/static/img/sitelogo.png" alt="Atechabad Academy" width="140"/>
+  <img src="./assets/hero.svg" width="100%" alt="Umar Khan — founder, AI builder, and embedded-systems developer" />
 </a>
 
-# Hi 👋, I'm Umar Khan
+<br />
 
-### CS Student • Founder @ Atechabad Academy • Building useful software
+[![Website](https://img.shields.io/badge/ATECHABAD.COM-0B1023?style=for-the-badge&logo=googlechrome&logoColor=22D3EE)](https://atechabad.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0B1023?style=for-the-badge&logo=linkedin&logoColor=60A5FA)](https://www.linkedin.com/in/UmarFKhan)
+[![YouTube](https://img.shields.io/badge/YOUTUBE-0B1023?style=for-the-badge&logo=youtube&logoColor=FB7185)](https://www.youtube.com/@AtechabadAcademy?sub_confirmation=1)
+[![Email](https://img.shields.io/badge/EMAIL-0B1023?style=for-the-badge&logo=gmail&logoColor=F8FAFC)](mailto:admin@atechabad.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=UmarFKhan&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/UmarFKhan)
 
-📍 Islamabad, Pakistan &nbsp;|&nbsp; 🌐 [atechabad.com](https://atechabad.com) &nbsp;|&nbsp; ✉️ [admin@atechabad.com](mailto:admin@atechabad.com)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/UmarFKhan)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UmarFKhan)
-[![Atechabad](https://img.shields.io/badge/Atechabad-%2328a745.svg?style=for-the-badge&logo=data:image/png;base64,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)](https://atechabad.com)
-[![Patreon](https://img.shields.io/badge/Patreon-%23F96854.svg?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/Atechabad)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@AtechabadAcademy?sub_confirmation=1)
-
-</td>
-</tr>
-</table>
-
----
-
-### 💫 About Me
-
-- 🎓 CS Student & founder building real, shipped software
-- 🚀 Founder & Creator of **Atechabad Academy** &nbsp;<img src="https://atechabad.com/static/img/sitelogo.png" alt="Atechabad" width="18" valign="middle"/>
-- 🛠️ Built and shipped 10+ tools/apps — AI, IoT, hardware automation, GPU-accelerated pipelines
-- 🤖 Currently deep in **Agentic Workflows** — building AI agents that actually do things
-- 🥇 1st Position, Abasyn University Hackathon 2024 — built a full IoT lock system live, in 3 hours
-- ⚡ Goal: build smart, useful, impactful software — and gather a team of relentlessly motivated builders
-
-### 🏆 Achievements
-
-<div align="center">
-<img src="https://atechabad.com/static/img/Hackathon2024.png" alt="Abasyn University Hackathon 2024 - First Position" width="160"/>
-&nbsp;&nbsp;
-<img src="https://atechabad.com/static/img/ShieldHackathon2024.png" alt="Hackathon 2024 Winner's Shield" width="160"/>
 </div>
 
-**🥇 1st Position — Abasyn University Islamabad Hackathon 2024** (Oct 23, 2024)
+## `> whoami`
 
-Built a complete **Door Locking & Unlocking System** from scratch, on the spot, during a 3-hour hackathon with live coding and live hardware assembly — no pre-built code or wiring. Used an **Arduino Nano** driving a **servo-motor latch mechanism**, with an **LCD display**, **keypad** for code entry, **buzzer + alarm lights** for intrusion alerts, and a **reset button**. Also designed and presented a roadmap for adding **fingerprint authentication** as a future upgrade path.
+I'm a Computer Science student and the founder of **[Atechabad Academy](https://atechabad.com)**. I work where **applied AI**, **embedded systems**, and **useful web products** meet—turning rough ideas into software and hardware people can actually use.
 
----
+```yaml
+location: Islamabad, Pakistan
+current_mode: Building agentic workflows and connected devices
+builder_energy: "Hustle. Learn. Build."
+mission: Make technology useful, accessible, and worth shipping
+```
 
-### 📦 Featured Projects
+<div align="center">
+  <img src="./assets/build-loop.svg" width="100%" alt="Animated build loop: idea, build, ship, impact" />
+</div>
 
-**📡 [ESP8266 WiFi Extender & Range Repeater](https://github.com/UmarFKhan/Wifi_Extender)** — `C++ / Arduino` · Public  
-An ultra-budget (~$3.50) DIY Wi-Fi range repeater powered by an **ESP8266**. Implements hardware-accelerated **lwIP NAPT** (Network Address Port Translation) layer-3 routing, an internal DNS proxy, and a live standalone web telemetry status dashboard at `http://192.168.4.1/status`.
+## Proof, not promises
 
-**🚪 ESP32 Smart Gate Automation — Private repo**
-IoT automation system for a heavy-duty metal main-entrance door. Built on an **ESP32**, controlled via a **React app** with a live camera overlay — the owner opens the app, sees who's at the gate through the camera feed, and unlocks it remotely for guests, all over wireless. Combines embedded hardware control with real-time app-based access management.
+| | Signal |
+|---:|:---|
+| **10+** | tools, apps, and hardware projects built and shipped |
+| **1st** | place at the Abasyn University Islamabad Hackathon 2024 |
+| **3 hrs** | to design, wire, code, and demo a complete IoT door-lock system live |
+| **$3.50** | approximate cost of my ESP8266 Wi-Fi range repeater |
 
-**🏥 [Triage_by_UmarKhan](https://github.com/UmarFKhan/Triage_by_UmarKhan)** — `C++` · Public
-A hospital triage system built as a Data Structures & Algorithms implementation — prioritizes and routes patients programmatically using core DSA concepts.
+## Flagship builds
 
-**🍅 [Tomato-Plant-Disease-Identifier (ML Project)](https://github.com/UmarFKhan/Tomato-Plant-Disease-Identifier-ML-Project)** — `Python` · Public
-Deep-learning tomato leaf disease classifier built with **TensorFlow** and **EfficientNetB0**. Trained on real-field tomato images using a two-phase transfer-learning approach with a frozen base model.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/UmarFKhan/Wifi_Extender"><img src="https://www.atechabad.com/static/img/portfolio/WiFi_Extender.png" width="100%" alt="ESP8266 Wi-Fi Extender project" /></a>
+      <h3 align="center">📡 ESP8266 Wi-Fi Extender</h3>
+      <p>Ultra-budget repeater with lwIP NAPT routing, a DNS proxy, and a live telemetry dashboard.</p>
+      <p align="center"><code>C++</code> <code>ESP8266</code> <code>lwIP</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/UmarFKhan/Tomato-Plant-Disease-Identifier-ML-Project"><img src="https://www.atechabad.com/static/img/portfolio/ML_Project.png" width="100%" alt="Tomato Disease Identifier machine-learning project" /></a>
+      <h3 align="center">🍅 Tomato Disease Identifier</h3>
+      <p>EfficientNetB0 classifier trained on real-field imagery with staged transfer learning and optimizer comparison.</p>
+      <p align="center"><code>Python</code> <code>TensorFlow</code> <code>EfficientNet</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/UmarFKhan/Entry-Test-System"><img src="https://www.atechabad.com/static/img/portfolio/Entry_test.png" width="100%" alt="University Entry Test System" /></a>
+      <h3 align="center">🎓 Entry Test System</h3>
+      <p>Randomized practice, subject analytics, university guides, and custom study modes in one preparation platform.</p>
+      <p align="center"><code>Flask</code> <code>Python</code> <code>HTML</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/UmarFKhan/AtechabadDubStudio"><img src="https://www.atechabad.com/static/img/portfolio/DubStudio.png" width="100%" alt="Atechabad Dub Studio" /></a>
+      <h3 align="center">🎙️ Atechabad Dub Studio</h3>
+      <p>Turns Chinese text or audio into English voice output using GPU-accelerated processing.</p>
+      <p align="center"><code>JavaScript</code> <code>CUDA</code> <code>AI Audio</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/UmarFKhan/Triage_by_UmarKhan"><img src="https://www.atechabad.com/static/img/portfolio/Triage.png" width="100%" alt="Hospital Triage Machine" /></a>
+      <h3 align="center">🏥 Hospital Triage Machine</h3>
+      <p>A priority-based patient-routing system built as a practical data-structures implementation.</p>
+      <p align="center"><code>C++</code> <code>DSA</code> <code>Priority Queue</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://www.atechabad.com/static/img/portfolio/GateControl.png" width="100%" alt="ESP32 Smart Gate Automation" />
+      <h3 align="center">🚪 ESP32 Smart Gate</h3>
+      <p>Remote gate control with a React interface, camera overlay, and wireless access management.</p>
+      <p align="center"><code>ESP32</code> <code>React</code> <code>IoT</code> · Private</p>
+    </td>
+  </tr>
+</table>
 
-**🌐 [Atechabad Academy Website](https://atechabad.com)** — `Python` · Private
-The official website for Atechabad Academy — [atechabad.com](https://atechabad.com).
+<details>
+<summary><b>More things I've built</b></summary>
 
-**🌾 Agriculture Portal** — `HTML` · Private (client project)
-A customized agriculture portal built for a client.
+<br />
 
-**🎙️ [Chinese Dub Studio](https://github.com/UmarFKhan/AtechabadDubStudio)**
-Converts Chinese text or audio into English voice output — free to use, GPU-accelerated on CUDA cores (RTX required).
+- **[ClipBoard Watcher](https://github.com/UmarFKhan/ClipBoard-Watcher)** — a lightweight utility that keeps a running history of copied text.
+- **Agriculture Portal** — a custom client platform for agriculture content and services.
+- **[Atechabad Academy](https://atechabad.com)** — the education platform, tools suite, and home base for the work I publish.
 
-**🎓 [University Entry Test Preparation System](https://github.com/UmarFKhan/Entry-Test-System)**
-Helps students prepare for university entrance exams, paired with an AI assistant that guides students based on their own educational records.
+</details>
 
-**📋 [ClipBoard Watcher](https://github.com/UmarFKhan/ClipBoard-Watcher)**
-A lightweight utility that logs everything copied to the clipboard into a running notepad file.
+## Building now
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="https://www.atechabad.com/static/img/portfolio/atecra.gif" width="100%" alt="Atecra AI agent animation" />
+      <h3>🤖 Atecra</h3>
+      <p>Atechabad's action-oriented AI agent—built to move beyond chat and actually execute useful workflows.</p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="https://www.atechabad.com/static/img/portfolio/MacroHub-Thumbnail.png" width="100%" alt="MacroHub programmable macro keyboard" />
+      <h3>⌨️ MacroHub</h3>
+      <p>A custom programmable 10-key macro keyboard with dedicated work, stream, and game modes.</p>
+    </td>
+  </tr>
+</table>
 
-### 🧰 Tools Suite — [atechabad.com/tools](https://atechabad.com/tools)
+Also in motion: **agentic automation pipelines** and an **IoT power-control system** for remote device management.
 
-A free toolkit deployed on Atechabad's website:
+Next on the bench: **home automation**, a **voice-first personal assistant**, and **long-range LoRa communication**.
 
-- Video Downloader
-- AI Image Upscaler
-- AI Background Remover
-- AI Resume Creator
-- QR Code Generator
-- Image Converter
-- Image Resizer
-- Color Picker
+## Hackathon win
 
----
+<table>
+  <tr>
+    <td width="42%" align="center" valign="middle">
+      <img src="https://www.atechabad.com/static/img/portfolio/HackathonAward.png" width="100%" alt="Abasyn University Hackathon 2024 award" />
+      <br /><br />
+      <img src="https://www.atechabad.com/static/img/portfolio/HackathonCertificate.png" width="100%" alt="Abasyn University Hackathon 2024 certificate" />
+    </td>
+    <td width="58%" valign="middle">
+      <h3>🥇 1st Place · Oct 23, 2024</h3>
+      <p><b>Challenge:</b> build a complete system from scratch in three hours—with live coding and live hardware assembly.</p>
+      <p><b>Result:</b> an Arduino Nano door lock with a servo latch, LCD, keypad authentication, buzzer, intrusion lights, reset control, and a roadmap for fingerprint access.</p>
+    </td>
+  </tr>
+</table>
 
-### ⚙️ Currently Working On — Agentic Workflows
+## The toolbox
 
-- **News Posting Automation** — automated pipeline for publishing news content
-- **Atecra** — Atechabad's own AI agent
-- **Power Control IoT System** — remote/automated power control over IoT
-- **Micropad** — custom 10-key macro keyboard
-
-### 🔮 Future Projects
-
-- **Home Automation System**
-- **Atecra Personal Assistant** — a voice assistant in the spirit of Amazon Alexa
-- **Long-range wireless communication using LoRa**
-
----
-
-### 💻 Tech Stack
+<div align="center">
 
 **Languages**
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus&logoColor=60A5FA)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FACC15)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=60A5FA)
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=F97316)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=38BDF8)
 
-**Frameworks & Tools**
+**Build**
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=22D3EE)
+![Flutter](https://img.shields.io/badge/Flutter-111827?style=for-the-badge&logo=flutter&logoColor=60A5FA)
+![Django](https://img.shields.io/badge/Django-111827?style=for-the-badge&logo=django&logoColor=34D399)
+![Flask](https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=F8FAFC)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=4ADE80)
+![Arduino](https://img.shields.io/badge/Arduino-111827?style=for-the-badge&logo=arduino&logoColor=22D3EE)
 
-**Data / AI**
+**AI & data**
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**Databases & Infra**
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Umar's GitHub stats](https://github-readme-stats-two-umber-33.vercel.app/api?username=UmarFKhan&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats-two-umber-33.vercel.app/api/top-langs/?username=UmarFKhan&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=UmarFKhan&theme=dark&hide_border=true)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=F97316)
+![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=FB7185)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=F59E0B)
+![NumPy](https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=60A5FA)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=38BDF8)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-111827?style=for-the-badge&logo=cloudflare&logoColor=FB923C)
 
 </div>
 
-### 🔴 Live Badges (always accurate, no rate-limit issues)
+## GitHub pulse
 
-![Profile Views](https://komarev.com/ghpvc/?username=UmarFKhan&color=blueviolet&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/UmarFKhan?style=for-the-badge&color=blue)
-![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FUmarFKhan&label=Public%20Repos&query=%24.public_repos&color=green&style=for-the-badge)
+<div align="center">
+
+<img height="170" src="https://github-readme-stats-two-umber-33.vercel.app/api?username=UmarFKhan&show_icons=true&theme=transparent&hide_border=true&title_color=a78bfa&icon_color=22d3ee&text_color=cbd5e1&ring_color=34d399&count_private=true&include_all_commits=true" alt="Umar's GitHub stats" />
+<img height="170" src="https://github-readme-stats-two-umber-33.vercel.app/api/top-langs/?username=UmarFKhan&layout=compact&theme=transparent&hide_border=true&title_color=a78bfa&text_color=cbd5e1" alt="Umar's most-used languages" />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=UmarFKhan&theme=transparent&hide_border=true&ring=A78BFA&fire=22D3EE&currStreakLabel=34D399&sideLabels=CBD5E1&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="Umar's GitHub contribution streak" />
+
+</div>
 
 ---
 
 <div align="center">
 
-**"Always learning. Always improving."**
+<img src="https://www.atechabad.com/static/img/portfolio/chibi_sidepose.png" width="140" alt="Umar Khan chibi avatar" />
+
+### Have an ambitious idea?
+
+I'm always interested in useful software, practical AI, connected hardware, and collaborations with builders who care about shipping.
+
+**[Explore Atechabad](https://atechabad.com)** · **[Connect on LinkedIn](https://www.linkedin.com/in/UmarFKhan)** · **[Send an email](mailto:admin@atechabad.com)**
+
+<br />
+
+<sub><b>ALWAYS LEARNING · ALWAYS BUILDING · ALWAYS SHIPPING</b></sub>
 
 </div>
