@@ -1,10 +1,3 @@
-<div align="center">
-
-<a href="https://atechabad.com">
-  <img src="./assets/hero.svg" width="100%" alt="Umar Khan — founder, AI builder, and embedded-systems developer" />
-</a>
-
-</div>
 <table>
 <tr>
 <td width="300" valign="middle">
@@ -41,26 +34,12 @@
 
 ### 💫 About Me
 
-<a href="https://github.com/UmarFKhan">
-  <img align="right" src="https://github.com/UmarFKhan.png?size=240" width="175" alt="Umar Khan" />
-</a>
 - 🎓 CS Student & founder building real, shipped software
 - 🚀 Founder & Creator of **Atechabad Academy** &nbsp;<img src="https://atechabad.com/static/img/sitelogo.png" alt="Atechabad" width="18" valign="middle"/>
 - 🛠️ Built and shipped 10+ tools/apps — AI, IoT, hardware automation, GPU-accelerated pipelines
 - 🤖 Currently deep in **Agentic Workflows** — building AI agents that actually do things
 - 🥇 1st Position, Abasyn University Hackathon 2024 — built a full IoT lock system live, in 3 hours
 - ⚡ Goal: build smart, useful, impactful software — and gather a team of relentlessly motivated builders
-
-<br clear="right" />
-
-<div align="center">
-  <img src="./assets/build-loop.svg" width="100%" alt="Animated build loop: idea, build, ship, impact" />
-</div>
-
-#### ⚡ Builder snapshot
-
-| **10+ shipped builds** | **1st-place hackathon win** | **3-hour live IoT build** | **~$3.50 Wi-Fi repeater** |
-|:---:|:---:|:---:|:---:|
 
 ### 🏆 Achievements
 
@@ -74,42 +53,10 @@
 
 Built a complete **Door Locking & Unlocking System** from scratch, on the spot, during a 3-hour hackathon with live coding and live hardware assembly — no pre-built code or wiring. Used an **Arduino Nano** driving a **servo-motor latch mechanism**, with an **LCD display**, **keypad** for code entry, **buzzer + alarm lights** for intrusion alerts, and a **reset button**. Also designed and presented a roadmap for adding **fingerprint authentication** as a future upgrade path.
 
-<details>
-<summary><b>🏅 View the award and certificate</b></summary>
-
-<br />
-
-<div align="center">
-  <img src="https://www.atechabad.com/static/img/portfolio/HackathonAward.png" width="48%" alt="Abasyn University Hackathon 2024 award" />
-  <img src="https://www.atechabad.com/static/img/portfolio/HackathonCertificate.png" width="48%" alt="Abasyn University Hackathon 2024 certificate" />
-</div>
-
-</details>
-
 ---
 
 ### 📦 Featured Projects
 
-<div align="center">
-
-<table>
-  <tr>
-    <td width="33%" align="center" valign="top"><a href="https://github.com/UmarFKhan/Wifi_Extender"><img src="https://www.atechabad.com/static/img/portfolio/WiFi_Extender.png" width="100%" alt="ESP8266 Wi-Fi Extender" /></a><br /><b>ESP8266 Wi-Fi Extender</b></td>
-    <td width="33%" align="center" valign="top"><a href="https://github.com/UmarFKhan/Tomato-Plant-Disease-Identifier-ML-Project"><img src="https://www.atechabad.com/static/img/portfolio/ML_Project.png" width="100%" alt="Tomato Disease Identifier" /></a><br /><b>Tomato Disease Identifier</b></td>
-    <td width="33%" align="center" valign="top"><a href="https://github.com/UmarFKhan/Entry-Test-System"><img src="https://www.atechabad.com/static/img/portfolio/Entry_test.png" width="100%" alt="Entry Test System" /></a><br /><b>Entry Test System</b></td>
-  </tr>
-  <tr>
-    <td width="33%" align="center" valign="top"><a href="https://github.com/UmarFKhan/AtechabadDubStudio"><img src="https://www.atechabad.com/static/img/portfolio/DubStudio.png" width="100%" alt="Atechabad Dub Studio" /></a><br /><b>Atechabad Dub Studio</b></td>
-    <td width="33%" align="center" valign="top"><a href="https://github.com/UmarFKhan/Triage_by_UmarKhan"><img src="https://www.atechabad.com/static/img/portfolio/Triage.png" width="100%" alt="Hospital Triage Machine" /></a><br /><b>Hospital Triage Machine</b></td>
-    <td width="33%" align="center" valign="top"><img src="https://www.atechabad.com/static/img/portfolio/GateControl.png" width="100%" alt="ESP32 Smart Gate Automation" /><br /><b>ESP32 Smart Gate</b></td>
-  </tr>
-</table>
-
-</div>
-
-<div align="center">
-  <img src="./assets/project-signal.svg" width="100%" alt="Animated map of Umar's AI, IoT, web, GPU, DSA, and education projects" />
-</div>
 **📡 [ESP8266 WiFi Extender & Range Repeater](https://github.com/UmarFKhan/Wifi_Extender)** — `C++ / Arduino` · Public  
 An ultra-budget (~$3.50) DIY Wi-Fi range repeater powered by an **ESP8266**. Implements hardware-accelerated **lwIP NAPT** (Network Address Port Translation) layer-3 routing, an internal DNS proxy, and a live standalone web telemetry status dashboard at `http://192.168.4.1/status`.
 
@@ -153,17 +100,6 @@ A free toolkit deployed on Atechabad's website:
 - Color Picker
 
 ---
-
-<div align="center">
-  <img src="./assets/focus-radar.svg" width="100%" alt="Animated radar of Umar's active projects" />
-</div>
-
-<table>
-  <tr>
-    <td width="50%" align="center" valign="top"><img src="https://www.atechabad.com/static/img/portfolio/atecra.gif" width="100%" alt="Atecra AI agent animation" /><br /><b>Atecra AI Agent</b></td>
-    <td width="50%" align="center" valign="top"><img src="https://www.atechabad.com/static/img/portfolio/MacroHub-Thumbnail.png" width="100%" alt="MacroHub programmable keyboard" /><br /><b>MacroHub / Micropad</b></td>
-  </tr>
-</table>
 
 ### ⚙️ Currently Working On — Agentic Workflows
 
@@ -240,8 +176,6 @@ A free toolkit deployed on Atechabad's website:
 ---
 
 <div align="center">
-
-<img src="./assets/footer-wave.svg" width="100%" alt="Animated always learning, always improving signal" />
 
 **"Always learning. Always improving."**
 
